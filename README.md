@@ -27,7 +27,6 @@ Store wants to create an annual sales report for 2022. So that, Owner can unders
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales Reports
