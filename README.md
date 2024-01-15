@@ -16,6 +16,12 @@ Store wants to create an annual sales report for 2022. So that, Owner can unders
   <img src="project_report_screenshot.png">
 </p>
 
+## Insights:
+- Women are more likely to buy compared to men (~65%)
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+- The adult age group (30-49 yrs) is max contributing (~50%)
+- Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
