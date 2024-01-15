@@ -1,6 +1,6 @@
 # Store-Analysis-Report-2022
 ## Project Objective:
-Store wants to create an annual sales report for 2022. So that, Owner can understand their customers and grow more sales in 2023.
+Store wants to create an annual sales report for 2022. So that, Owner can understand their customers and grow more sales in the upcoming year.
 
 ## Problem Statements:
 - Compare the sales and orders using single chart.
